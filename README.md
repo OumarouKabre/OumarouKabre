@@ -103,18 +103,6 @@ Implémentation de réseaux de neurones convolutifs (CNN) pour la détection d'o
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Oumarou's GitHub stats](https://github-readme-stats.vercel.app/api?username=OumarouKabre&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OumarouKabre&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Formation
 
 | Période | Diplôme | Institution |
