@@ -1,4 +1,4 @@
-# Bonjour, je suis Oumarou Kabré 👋
+# Bonjour, je suis Oumarou Kabré 
 
 <div align="center">
   
@@ -130,7 +130,7 @@ Implémentation de réseaux de neurones convolutifs (CNN) pour la détection d'o
 
 ## 🌍 Langues
 
-🇫🇷 **Français** — Langue maternelle  
+🇫🇷 **Français** — Niveau excellent 
 🇬🇧 **Anglais** — Niveau intermédiaire (lecture technique)
 
 ---
@@ -138,7 +138,7 @@ Implémentation de réseaux de neurones convolutifs (CNN) pour la détection d'o
 ## 📫 Me contacter
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabreoumarou95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarou-kabre)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumarou-kabr%C3%A9-b255412aa)
 
 ---
 
