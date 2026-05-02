@@ -11,7 +11,7 @@
 ## 🧑‍💻 À propos de moi
 
 🎓 **Ingénieur Statisticien Économiste** en 2e année à l'**ISSEA** (Yaoundé, Cameroun)  
-🏫 Diplômé **Ingénieur en Data Analyse** — **ISSP**, Ouagadougou, Burkina Faso  
+🏫 Diplômé **Analyste Statisticien** — **ISSP**, Ouagadougou, Burkina Faso  
 📊 Passionné par la **Data Science**, le **Machine Learning**, le **Deep Learning** et l'**Actuariat**  
 🔬 Auteur d'un mémoire sur la **modélisation du risque fiscal des PME** (Régression logistique — DGI Burkina Faso)  
 📍 Ouagadougou, Burkina Faso  
@@ -52,7 +52,7 @@
 ## 📂 Projets Principaux
 
 ### 🏦 Modèle de Prévision du Risque Fiscal des PME
-> *Mémoire de fin d'études — Direction Générale des Impôts, Burkina Faso*
+> *Mémoire de fin de cycle Analyse Statistique — Direction Générale des Impôts, Burkina Faso*
 
 Mise en place d'un modèle de prévision des risques de **non-conformité à la TVA** parmi les PME du Burkina Faso.
 
@@ -69,7 +69,6 @@ Mise en place d'un modèle de prévision des risques de **non-conformité à la 
 Classification supervisée pour la détection précoce du diabète sur données médicales (UCI Diabetes Dataset).
 
 - **Modèles** : Random Forest, SVM, XGBoost
-- **Évaluation** : AUC > 85%, matrice de confusion, courbe ROC
 - **Outils** : `Python` `Scikit-learn` `Pandas` `Seaborn`
 
 ---
@@ -80,7 +79,6 @@ Classification supervisée pour la détection précoce du diabète sur données 
 Modélisation du risque de défaut de paiement des emprunteurs.
 
 - **Méthodes** : Régression logistique, Gradient Boosting
-- **Interprétabilité** : SHAP values
 - **Outils** : `Python` `Scikit-learn` `Matplotlib`
 
 ---
